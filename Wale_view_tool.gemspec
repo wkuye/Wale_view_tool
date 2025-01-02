@@ -6,8 +6,8 @@ require "Wale_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "Wale_view_tool"
   spec.version       = WaleViewTool::VERSION
-  spec.authors       = ["TODO: Wale Kuye"]
-  spec.email         = ["TODO: wkuye7@gmail.com"]
+  spec.authors       = ["Wale Kuye"]
+  spec.email         = ["wkuye7@gmail.com"]
 
   spec.summary       = %q{various view specific methods for applications i use.}
   spec.description   = %q{provides generated HTML data for Rails applications.}
